@@ -1204,6 +1204,11 @@ figcaption {
   padding: 20px 10px;
 }
 
+.link-block {
+  margin-left: 20px;
+  text-decoration: none;
+}
+
 @media screen and (max-width: 991px) {
   h4 {
     letter-spacing: 2px;
